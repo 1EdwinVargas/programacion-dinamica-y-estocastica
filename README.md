@@ -114,6 +114,10 @@ if __name__ == '__main__':
     print(resultado)
 ```
 
+Link que para profundizar: 
+https://www.youtube.com/watch?v=Qk0zUZW-U_M
+http://www.cs.wm.edu/~rml/teaching/python/functions/recursion.html
+
 # Caminos Aleatorios
 
 ## ¿Qué son los caminos aleatorios?
